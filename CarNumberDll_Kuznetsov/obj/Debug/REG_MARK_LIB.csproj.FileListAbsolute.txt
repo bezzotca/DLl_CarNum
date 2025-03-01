@@ -1,0 +1,6 @@
+C:\Users\andre\Desktop\CarNumberDLL\CarNumberDll_Kuznetsov\CarNumberDll_Kuznetsov\bin\Debug\CarNumberDll_Kuznetsov.dll
+C:\Users\andre\Desktop\CarNumberDLL\CarNumberDll_Kuznetsov\CarNumberDll_Kuznetsov\bin\Debug\CarNumberDll_Kuznetsov.pdb
+C:\Users\andre\Desktop\CarNumberDLL\CarNumberDll_Kuznetsov\CarNumberDll_Kuznetsov\obj\Debug\REG_MARK_LIB.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\CarNumberDLL\CarNumberDll_Kuznetsov\CarNumberDll_Kuznetsov\obj\Debug\REG_MARK_LIB.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\CarNumberDLL\CarNumberDll_Kuznetsov\CarNumberDll_Kuznetsov\obj\Debug\CarNumberDll_Kuznetsov.dll
+C:\Users\andre\Desktop\CarNumberDLL\CarNumberDll_Kuznetsov\CarNumberDll_Kuznetsov\obj\Debug\CarNumberDll_Kuznetsov.pdb

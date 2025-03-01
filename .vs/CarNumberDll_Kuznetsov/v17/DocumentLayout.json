@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Desktop\\CarNumberDLL\\CarNumberDll_Kuznetsov\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{278DF788-2456-4BA6-B48C-F35394206A54}|REG_MARK_LIB_UnitTesting\\REG_MARK_LIB_UnitTesting.csproj|C:\\Users\\andre\\Desktop\\CarNumberDLL\\CarNumberDll_Kuznetsov\\reg_mark_lib_unittesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278DF788-2456-4BA6-B48C-F35394206A54}|REG_MARK_LIB_UnitTesting\\REG_MARK_LIB_UnitTesting.csproj|solutionrelative:reg_mark_lib_unittesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB259A68-D00C-4E32-9A37-E695D0AFA4BF}|CarNumberDll_Kuznetsov\\REG_MARK_LIB.csproj|c:\\users\\andre\\desktop\\carnumberdll\\carnumberdll_kuznetsov\\carnumberdll_kuznetsov\\carnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB259A68-D00C-4E32-9A37-E695D0AFA4BF}|CarNumberDll_Kuznetsov\\REG_MARK_LIB.csproj|solutionrelative:carnumberdll_kuznetsov\\carnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\CarNumberDLL\\CarNumberDll_Kuznetsov\\REG_MARK_LIB_UnitTesting\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "REG_MARK_LIB_UnitTesting\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\CarNumberDLL\\CarNumberDll_Kuznetsov\\REG_MARK_LIB_UnitTesting\\UnitTest1.cs*",
+              "RelativeToolTip": "REG_MARK_LIB_UnitTesting\\UnitTest1.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:06:59.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarNum.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\CarNumberDLL\\CarNumberDll_Kuznetsov\\CarNumberDll_Kuznetsov\\CarNum.cs",
+              "RelativeDocumentMoniker": "CarNumberDll_Kuznetsov\\CarNum.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\CarNumberDLL\\CarNumberDll_Kuznetsov\\CarNumberDll_Kuznetsov\\CarNum.cs",
+              "RelativeToolTip": "CarNumberDll_Kuznetsov\\CarNum.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswAwAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T06:19:02.875Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

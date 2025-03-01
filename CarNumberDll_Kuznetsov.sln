@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REG_MARK_LIB", "CarNumberDll_Kuznetsov\REG_MARK_LIB.csproj", "{FB259A68-D00C-4E32-9A37-E695D0AFA4BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REG_MARK_LIB_UnitTesting", "REG_MARK_LIB_UnitTesting\REG_MARK_LIB_UnitTesting.csproj", "{278DF788-2456-4BA6-B48C-F35394206A54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB259A68-D00C-4E32-9A37-E695D0AFA4BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB259A68-D00C-4E32-9A37-E695D0AFA4BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB259A68-D00C-4E32-9A37-E695D0AFA4BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB259A68-D00C-4E32-9A37-E695D0AFA4BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{278DF788-2456-4BA6-B48C-F35394206A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{278DF788-2456-4BA6-B48C-F35394206A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{278DF788-2456-4BA6-B48C-F35394206A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{278DF788-2456-4BA6-B48C-F35394206A54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63FF6EA4-133D-4D9A-AFD3-FABC825AA2B2}
+	EndGlobalSection
+EndGlobal
